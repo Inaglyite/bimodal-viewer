@@ -1,0 +1,15 @@
+{
+  "N": 10000000,
+  "mu1": 0,
+  "sigma1": 10,
+  "mu2": 50,
+  "sigma2": 13.8,
+  "w1": 0.08,
+  "bins": 100,
+  "minBins": 10,
+  "maxBins": 500,
+  "output": "gui",
+  "auto_range": true,
+  "description": "ARM优化配置 - 减少数据量和bins以适应ARM设备内存限制"
+}
+
